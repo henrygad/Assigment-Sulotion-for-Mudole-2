@@ -95,6 +95,12 @@ span {
        float: left;
        border: 1px solid balck; 
 	} 
+	
+	#Sf-tx-box{
+		width: 48%;
+		margin-left: 13px;
+	} 
+
 
 	#last-tx-box{
 		width: 100%;
